@@ -14,3 +14,8 @@ def divisao (a, b):
     elif b == 0:
         print("Erro: divisão por zero")
     return a/b
+
+def multiplicacao (a, b):
+    if not isinstance(a, (int, float)) or not isinstance(b, (int, float)):
+        print("Os númegros digitados devem ser int ou float")
+    return a*b
