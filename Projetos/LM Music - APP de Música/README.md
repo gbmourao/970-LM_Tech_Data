@@ -16,7 +16,7 @@ Ao abrir o programa, ele deverá oferecer um menu com exatamente 3 opções: log
 
 Não se preocupe com criar um sistema real de login ou senha no momento, apenas valide a opção digitada e siga para o próximo menu.
 
-###### _ _1.1. Admin_ _
+###### _1.1. Admin_
 O menu de admin oferecerá 2 opções:
 
 Registrar artista
@@ -26,7 +26,7 @@ No primeiro caso, o admin irá digitar o nome de um novo artista. Caso o nome ai
 
 No segundo caso, o admin deverá digitar primeiramente o artista - o artista precisa já existir. Em seguida o programa perguntará quantas músicas teremos e irá perguntar as informações de cada uma, uma por uma. O álbum deverá ser criado, e a estrutura do artista deve ser atualizada para contabilizar o álbum novo.
 
-###### _ _1.2. Usuário_ _
+###### _1.2. Usuário_
 O menu de usuário também oferecerá 2 opções:
 
 Buscar playlist
