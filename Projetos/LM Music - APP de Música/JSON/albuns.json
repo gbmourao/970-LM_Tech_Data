@@ -1,0 +1,179 @@
+{
+    "Toxicity": {
+        "artista": "System of a Down",
+        "ano": 2001,
+        "musicas": [
+            "Prison Song",
+            "Needles",
+            "Deer Dance",
+            "Jet Pilot",
+            "X",
+            "Chop Suey!",
+            "Bounce",
+            "Forest",
+            "ATWA",
+            "Science",
+            "Shimmy",
+            "Toxicity",
+            "Psycho",
+            "Aerials"
+        ]
+    },
+    "Hypnotize": {
+        "artista": "System of a Down",
+        "ano": 2005,
+        "musicas": [
+            "Attack",
+            "Dreaming",
+            "Kill Rock \"n Roll",
+            "Hypnotize",
+            "Stealing Society",
+            "Tentative",
+            "U-Fig",
+            "Holy Mountains",
+            "Vicinity of Obscenity",
+            "She\"s Like Heroin",
+            "Lonely Day",
+            "Soldier Side"
+        ]
+    },
+    "Slipknot": {
+        "artista": "Slipknot",
+        "ano": 1999,
+        "musicas": [
+            "742617000027",
+            "(Sic)",
+            "Eyeless",
+            "Wait and Bleed",
+            "Surfacing",
+            "Spit It Out",
+            "Tattered & Torn",
+            "Purity",
+            "Liberate",
+            "Prosthetics",
+            "No Life",
+            "Diluted",
+            "Only One",
+            "Scissors"
+        ]
+    },
+    "Iowa": {
+        "artista": "Slipknot",
+        "ano": 2001,
+        "musicas": [
+            "(515)",
+            "People = Shit",
+            "Disasterpiece",
+            "My Plague",
+            "Everything Ends",
+            "The Heretic Anthem",
+            "Gently",
+            "Left Behind",
+            "The Shape",
+            "I Am Hated",
+            "Skin Ticket",
+            "New Abortion",
+            "Metabolic",
+            "Iowa"
+        ]
+    },
+    "When We All Fall Asleep, Where Do We Go?": {
+        "artista": "Billie Eilish",
+        "ano": 2019,
+        "musicas": [
+            "bad guy",
+            "xanny",
+            "you should see me in a crown",
+            "all the good girls go to hell",
+            "wish you were gay",
+            "when the party's over",
+            "8",
+            "my strange addiction",
+            "bury a friend",
+            "ilomilo",
+            "listen before i go",
+            "i love you",
+            "goodbye"
+        ]
+    },
+    "After Hours": {
+        "artista": "The Weeknd",
+        "ano": 2020,
+        "musicas": [
+            "Alone Again",
+            "Too Late",
+            "Hardest to Love",
+            "Scared to Live",
+            "Snowchild",
+            "Escape from LA",
+            "Heartless",
+            "Faith",
+            "Blinding Lights",
+            "In Your Eyes",
+            "Save Your Tears",
+            "Repeat After Me (Interlude)",
+            "After Hours",
+            "Until I Bleed Out"
+        ]
+    },
+    "Uptown Special": {
+        "artista": "Mark Ronson",
+        "ano": 2015,
+        "musicas": [
+            "Uptown's First Finale",
+            "Summer Breaking",
+            "Feel Right",
+            "Uptown Funk",
+            "I Can't Lose",
+            "Daffodils",
+            "Crack in the Pearl",
+            "In Case of Fire",
+            "Leaving Los Feliz",
+            "Heavy and Rolling",
+            "Crack in the Pearl, Pt. II"
+        ]
+    },
+    "A Star Is Born Soundtrack": {
+        "artista": "Lady Gaga",
+        "ano": 2018,
+        "musicas": [
+            "Black Eyes",
+            "La Vie en rose",
+            "Maybe It's Time",
+            "Shallow",
+            "Alibi",
+            "Music to My Eyes",
+            "Diggin' My Grave",
+            "Always Remember Us This Way",
+            "Look What I Found",
+            "Heal Me",
+            "I Don't Know What Love Is",
+            "Is That Alright?",
+            "Why Did You Do That?",
+            "Hair Body Face",
+            "Before I Cry",
+            "Too Far Gone",
+            "I'll Never Love Again"
+        ]
+    },
+    "A Kind of Magic (2011 Remaster)": {
+        "artista": "Queen",
+        "ano": 1986,
+        "musicas": [
+            "One Vision - Remastered 2011",
+            "A Kind of Magic - Remastered 2011",
+            "One Year Of Love - Remastered 2011",
+            "Pain Is So Close To Pleasure - Remastered 2011",
+            "Friends Will Be Friends - Remastered 2011",
+            "Who Wants To Live Forever - Remastered 2011",
+            "Gimme The Prize - Remastered 2011",
+            "Don't Lose Your Head - Remastered 2011",
+            "Princes Of The Universe - Remastered 2011"
+        ]
+    },
+    "Calango": {
+        "artista": "Skank",
+        "ano": 1994,
+        "musicas": []
+    }
+}

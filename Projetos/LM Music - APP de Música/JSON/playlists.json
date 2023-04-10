@@ -1,0 +1,64 @@
+{
+    "Metal": {
+        "Prison Song": {
+            "artista": "System of a Down",
+            "album": "Toxicity"
+        },
+        "Chop Suey!": {
+            "artista": "System of a Down",
+            "album": "Toxicity"
+        },
+        "Left Behind": {
+            "artista": "Slipknot",
+            "album": "Iowa"
+        },
+        "Duality": {
+            "artista": "Slipknot",
+            "album": "Vol. 3: (The Subliminal Verses)"
+        },
+        "Attack": {
+            "artista": "System of a Down",
+            "album": "Hypnotize"
+        },
+        "Disasterpiece": {
+            "artista": "Slipknot",
+            "album": "Iowa"
+        }
+    },
+    "Pop": {
+        "Bad Guy": {
+            "artista": "Billie Eilish",
+            "album": "When We All Fall Asleep, Where Do We Go?"
+        },
+        "Blinding Lights": {
+            "artista": "The Weeknd",
+            "album": "After Hours"
+        },
+        "Uptown Funk": {
+            "artista": "Mark Ronson",
+            "album": "Uptown Special"
+        },
+        "Shallow": {
+            "artista": "Lady Gaga",
+            "album": "A Star Is Born Soundtrack"
+        }
+    },
+    "Metal e Pop": {
+        "Bad Guy": {
+            "artista": "Billie Eilish",
+            "album": "When We All Fall Asleep, Where Do We Go?"
+        },
+        "Blinding Lights": {
+            "artista": "The Weeknd",
+            "album": "After Hours"
+        },
+        "Prison Song": {
+            "artista": "System of a Down",
+            "album": "Toxicity"
+        },
+        "Left Behind": {
+            "artista": "Slipknot",
+            "album": "Iowa"
+        }
+    }
+}
